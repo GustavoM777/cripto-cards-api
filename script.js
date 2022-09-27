@@ -11,7 +11,7 @@ async function fetchApi() {
         data.forEach((coin, i) => {
             let img = data[i].image
             content.innerHTML += `
-        <div class=conteudo>
+        <div class="conteudo">
            <h1>${data[i].name}</h1>
            <h1>${data[i].current_price}</h1>
            <h1 id="price">${data[i].price_change_percentage_24h.toFixed(2)}% </h1>
