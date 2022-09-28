@@ -9,7 +9,7 @@
 <p align="center"><i>"Seja bem-vindo"</i></p>
 
 <hr><br>
-<p align="center">Este projeto foi desenvolvido a fim de estudo, pra análise de manipulação de dados apresentados dinamicamente. para efeito dos cards utilizei da biblioteca vanilla-tilt-js.</p>
+<p align="center">Este projeto foi desenvolvido a fim de estudo, pra análise de manipulação de dados apresentados dinamicamente através do JavaScript. para efeito dos cards utilizei da biblioteca vanilla-tilt-js.</p>
 
 <p align="center">
   <kbd>
