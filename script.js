@@ -30,14 +30,6 @@ async function fetchApi() {
                 variacao.setAttribute('id', 'green')
             }
 
-            document.addEventListener('click', function (e) {
-                const el = e.target;
-                console.log('el', el)
-                if (el.classList.contains('frontside')) {
-                    el.classList.toggle('flip')
-                }
-            })
-
             document.addEventListener('mouseover', function (e) {
                 const element = e.target;
                 console.log('el', element)
